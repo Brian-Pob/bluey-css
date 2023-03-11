@@ -1,7 +1,7 @@
 # bluey-css
 
 Characters from the Australian kids show "Bluey" recreated using just HTML and CSS, CSS-battle style!
-Hosted for free on [](https://blueyincss.netlify.app).
+Hosted for free on [Netlify](https://blueyincss.netlify.app).
 
 ## Characters
 
