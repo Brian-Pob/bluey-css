@@ -329,7 +329,7 @@ https://segmentfault.com/a/1190000040344317/en
   --smile-height: 40px;
   position: absolute;
   top: 47%;
-  left: 50%;
+  left: 45%;
   width: var(--smile-width);
   height: var(--smile-height);
   border: solid 3px;
@@ -343,8 +343,8 @@ https://segmentfault.com/a/1190000040344317/en
   --dimple-width: 20%;
   --dimple-height: 10px;
   position: absolute;
-  top: 48%;
-  left: 40%;
+  top: 54%;
+  left: 46%;
   width: var(--dimple-width);
   height: var(--dimple-height);
   border: solid 3px;
